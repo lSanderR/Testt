@@ -1,0 +1,13 @@
+﻿  Artifacts.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\backup\Src\Artifacts.cpp': No such file or directory
+  Bot.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\backup\Src\Bot.cpp': No such file or directory
+  dllmain.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\backup\Src\dllmain.cpp': No such file or directory
+  Functions.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\backup\Src\Functions.cpp': No such file or directory
+  Hooks.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\backup\Src\Hooks.cpp': No such file or directory
+  Patch.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\backup\Src\Patch.cpp': No such file or directory
+  Generating Code...
